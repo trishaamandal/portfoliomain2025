@@ -7,6 +7,8 @@ import Work6 from "../../assets/gymm.png";
 import Work7 from "../../assets/food.png";
 import Work8 from "../../assets/netflix.png";
 import Work9 from "../../assets/1cyber.png";
+import Work10 from "../../assets/health.png";
+
 // import Work10 from "../../assets/gymm.png";
 
 
@@ -87,7 +89,7 @@ const Menu = [
     },
     {
         id: 10,
-        image: Work8,
+        image: Work10,
         title: "Health Vision",
         category: ["Backend"],
         url: "",
