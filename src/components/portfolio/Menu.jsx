@@ -66,8 +66,8 @@ const Menu = [
         image: Work7,
         title: "Food Country Web",
         category: ["Frontend", "Backend", "React"],
-        url: "",
-        repositoryUrl: "https://github.com/"
+        url: "https://trishafood-delivery-app.netlify.app/",
+        repositoryUrl: "https://github.com/trishaamandal/fooddelivery"
     },
     {
         id: 8,
