@@ -83,7 +83,7 @@ const Menu = [
         id: 9,
         image: Work9,
         title: "Resume Detection",
-        category: ["Cybersecurity"],
+        category: ["Machine Learning"],
         url: "",
         repositoryUrl: "https://github.com/"
     },
@@ -91,7 +91,7 @@ const Menu = [
         id: 10,
         image: Work10,
         title: "Health Vision",
-        category: ["Backend"],
+        category: ["Machine Learning"],
         url: "",
         repositoryUrl: "https://github.com/"
     }

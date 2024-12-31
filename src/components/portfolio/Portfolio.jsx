@@ -37,6 +37,10 @@ const Portfolio = () => {
                 <span className={activeFilter === 4 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("React"); setActiveFilter(4) }}>
                     React
                 </span>
+                <span
+                    className={activeFilter === 4 ? 'portfolio__item portfolio__item-active' : 'portfolio__item'} onClick={() => { filterItems("Machine Learning"); setActiveFilter(5) }}>
+                    Machine Learning
+                </span>
             </div>
 
             <div className="portfolio__container grid">
