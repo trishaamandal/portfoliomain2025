@@ -7,8 +7,7 @@ import Work6 from "../../assets/gymm.png";
 import Work7 from "../../assets/food.png";
 import Work8 from "../../assets/netflix.png";
 import Work9 from "../../assets/1cyber.png";
-import Work10 from "../../assets/health.png";
-
+import Work10 from "../../assets/health1.png";
 // import Work10 from "../../assets/gymm.png";
 
 
